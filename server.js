@@ -4,12 +4,12 @@ const inquirer = require('inquirer');
 const consoleTable = require('console.table');
 const util = require('util');
 
-// Create the connection to MySQL WorkBench
+// Create the connection to MySQL2 
 let connection = mysql.createConnection({
     host: 'localhost',
     port: 3306,
     user: 'root',
-    password: '',
+    password: 'Fonzidanesh21',
     database: 'employee_db'
 });
 
