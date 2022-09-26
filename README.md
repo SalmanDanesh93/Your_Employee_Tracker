@@ -91,3 +91,10 @@ The image below shows the prompt the user will see when initiating the applicati
 The image below shows the tables for Department View & Role View.
 
 ![8 Prompt](https://user-images.githubusercontent.com/107973681/192301354-1a943799-288c-4d0f-8025-e6fce3463835.png)
+
+
+Links:
+
+GitHub: https://github.com/SalmanDanesh93/Your_Employee_Tracker
+
+Video Walk Through: https://drive.google.com/file/d/1PvmeJxNvAQGH4EqrWxNAnZMSZ_IHsQNy/view
